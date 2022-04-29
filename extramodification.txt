@@ -1,0 +1,7 @@
+The modification that I have added is that when a sheep dies, a heart appears and goes upwards 
+and becomes smaller until it disappears, transmitting the elimination of the sheep, 
+which I have done following the remaining tutorial.
+
+A modification that I would have liked to implement is that with the time the sheep come out faster and faster, 
+and its speed increases, it would be like increasing the level's difficulty,
+but I have not been able to implement this modification.
